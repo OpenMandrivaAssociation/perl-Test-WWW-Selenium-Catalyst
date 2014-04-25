@@ -1,2 +1,4 @@
+removed_sources:
+  Test-WWW-Selenium-Catalyst-0.06.tar.gz: 945d7b8fd4c7b1bc9c1e8759f8b1f7d0d8bd76b4
 sources:
-  "Test-WWW-Selenium-Catalyst-0.06.tar.gz": 945d7b8fd4c7b1bc9c1e8759f8b1f7d0d8bd76b4
+  Test-WWW-Selenium-Catalyst-0.07.tar.gz: d01230d36f3bff633bbc68e5363b0714c123b528
