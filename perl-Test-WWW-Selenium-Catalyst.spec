@@ -1,15 +1,15 @@
 %define upstream_name    Test-WWW-Selenium-Catalyst
-%define upstream_version 0.06
+%define upstream_version 0.07
 
 Name:		perl-%{upstream_name}
-Version:	%perl_convert_version %{upstream_version}
-Release:	5
+Version:	%{upstream_version}
+Release:	1
 
 Summary:	Test your Catalyst app with Selenium
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		https://search.cpan.org/dist/%{upstream_name}
-Source0:	http://www.cpan.org/modules/by-module/Test/%{upstream_name}-%{upstream_version}.tar.gz
+Url:		https://git.shadowcat.co.uk/catagits/Test-WWW-Selenium-Catalyst
+Source0:	https://cpan.metacpan.org/authors/id/B/BO/BOBTFISH/Test-WWW-Selenium-Catalyst-%{upstream_version}.tar.gz
 
 BuildRequires:	make
 BuildRequires:	perl-devel
